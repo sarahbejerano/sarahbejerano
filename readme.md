@@ -2,8 +2,8 @@
 <h3 align="center">👋 Hi! I'm Sarah Bejerano</h3>
 <p align="center">
 👻 Pronouns: She/Her
-   <p><a href="https://www.linkedin.com/in/sarah-bejerano-8915781a5/">LinkedIn</a> <p>
-   <p><a href="https://www.instagram.com/sarah_bejerano/">Instagram</a> <p>
+   <p align="center"><a href="https://www.linkedin.com/in/sarah-bejerano-8915781a5/">LinkedIn</a> <p>
+   <p align="center"><a href="https://www.instagram.com/sarah_bejerano/">Instagram</a> <p>
 </p>
 
 ---
