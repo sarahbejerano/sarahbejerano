@@ -24,4 +24,5 @@
 
  <p align="center"><a href="https://www.linkedin.com/in/sarah-bejerano-8915781a5/">LinkedIn</a> <p>
    <p align="center"><a href="https://www.instagram.com/sarah_bejerano/">Instagram</a> <p>
-      
+     
+   Also, check my <a href="file:///Users/sarahbejerano/Downloads/SARAH_BEJERANO_Resume_18-02-2022-13-27-30.pdf">CV</a>
