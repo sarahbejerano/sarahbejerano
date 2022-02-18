@@ -21,12 +21,12 @@ Pronouns: She/Her
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
 
-😄 I’m looking to collaborate on: Developing new and intriguing open-source projects.
+😄 I’m looking to collaborate on developing new and open-source projects.
 
 👻 Fun Facts: 
-Besides programming, I'm a [**Photo Editor**](https://www.behance.net/bejeranosarah), a **Scuba Dive Master** and love to repair film photography cameras.*
-You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
-If you're still reading, why not follow me ?? Let's Connect !! 📫
+Besides programming, I'm a [**Photo Editor**](https://www.behance.net/bejeranosarah), a **Scuba Dive Master** and I love to repair old film photography cameras.
+If you're still reading, why not follow me? </br>
+Let's Connect !! 📫
  <p><a href="https://www.linkedin.com/in/sarah-bejerano-8915781a5/">LinkedIn</a> <p>
  <p><a href="https://www.instagram.com/sarah_bejerano/">Instagram</a> <p>
   <p><a href="https://www.behance.net/bejeranosarah">Behance</a> <p>
