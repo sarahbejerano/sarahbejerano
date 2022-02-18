@@ -7,7 +7,10 @@
 ---
 🤓 I'm a creative and curious front-end developer with a background in Communication and Marketing. Passionate about User Experience. Proficient in HTML, CSS, JavaScript with a focus on React. Visual design, UX design, and prototyping experience using Figma and Sketch. Expert photo editor with advanced knowledge of Adobe CS. Strong organizational and project management skills. 
 🔭 I'm currently working on a full-stack interactive learning platform combining games and art catalogs from the API of the Art Institute of Chicago. Technologies used:<b> React, JavaScript, HTML, CSS, Firebase, Firestore, Github, Figma, Bootstrap, Postman, Vercel </b>.
-<a href="https://artz.vercel.app/">Click in here to see it</a>
+<a href="https://artz.vercel.app/">ArtZ</a>
+
+![image](https://user-images.githubusercontent.com/90265295/154738200-b5476af1-e0b5-4ac2-b572-c2907c3005fa.png)
+
 
 
 <!-- - 🔭 I’m currently working on ...
