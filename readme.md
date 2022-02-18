@@ -24,12 +24,12 @@ Pronouns: She/Her
 😄 I’m looking to collaborate on developing new and open-source projects.
 
 👻 Fun Facts: 
-Besides programming, I'm a [**Photo Editor**](https://www.behance.net/bejeranosarah), a **Scuba Dive Master** and I love to repair old film photography cameras.
+Besides programming, I'm a [**Photo Editor**](https://www.behance.net/bejeranosarah), a **Scuba Dive Master** and I love to repair old film photography cameras.</br>
 If you're still reading, why not follow me? </br>
-Let's Connect !! 📫
+Let's Connect !! 📫</br>
  <p><a href="https://www.linkedin.com/in/sarah-bejerano-8915781a5/">LinkedIn</a> <p>
  <p><a href="https://www.instagram.com/sarah_bejerano/">Instagram</a> <p>
-  <p><a href="https://www.behance.net/bejeranosarah">Behance</a> <p>
+
 
 
 
