@@ -1,15 +1,13 @@
 
-<h3 align="center">👋 Hi! I'm Sarah Bejerano</h3>
+<h2 align="center">👋 Hi! I'm Sarah Bejerano</h2>
 <p align="center">
 👻 Pronouns: She/Her
-   <p align="center"><a href="https://www.linkedin.com/in/sarah-bejerano-8915781a5/">LinkedIn</a> <p>
-   <p align="center"><a href="https://www.instagram.com/sarah_bejerano/">Instagram</a> <p>
 </p>
 
 ---
-🤓 I'm an innovative front-end developer who enjoy creating and maintaining responsive websites and web applications. Passionate about User Experience. Proficient in HTML, CSS, JavaScript with a focus on React. Visual design capabilities using Figma and Sketch. With a background in Communication and Marketing. Advanced practical knowledge of the Adobe CS Suite, as a photo editor and retoucher.
+🤓 I'm a creative and curious front-end developer with a background in Communication and Marketing. Passionate about User Experience. Proficient in HTML, CSS, JavaScript with a focus on React. Visual design, UX design, and prototyping experience using Figma and Sketch. Expert photo editor with advanced knowledge of Adobe CS. Strong organizational and project management skills. 
 
-🔭 I'm currently working on a web application that works as a learning platform for art, using the public API of the Art Institute of Chicago.
+🔭 I'm currently working on A full-stack interactive learning platform combining games and art catalogs from the API of the Art Institute of Chicago. Technologies used:<b> React, JavaScript, HTML, CSS, Firebase, Firestore, Github, Figma, Bootstrap, Postman, Vercel </b>.
 
 
 
@@ -22,3 +20,6 @@
 
 - ⚡ Fun fact: ... -->
 
+ <p align="center"><a href="https://www.linkedin.com/in/sarah-bejerano-8915781a5/">LinkedIn</a> <p>
+   <p align="center"><a href="https://www.instagram.com/sarah_bejerano/">Instagram</a> <p>
+      
